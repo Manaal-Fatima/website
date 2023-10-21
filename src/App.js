@@ -12,7 +12,7 @@ return (
             <h2>Personal Information</h2>
             <p>Father Name:M.Shahzad</p>
             <p>DOB: 13/12/2003</p>
-            <p>Wamt to become a" DEVELOPER"</p>
+            <p>Want to become a" DEVELOPER"</p>
           </section>
           <section className="education">
             <h2>Education</h2>

@@ -1,0 +1,129 @@
+[
+  {
+    "text": "Which of the following is not a valid JavaScript data type?",
+    "options": [
+      {
+        "id": 1,
+        "text": "number",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "text": "object",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "text": "function",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "text": "character",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "In React, what is the purpose of the useState hook?",
+    "options": [
+      {
+        "id": 1,
+        "text": " To fetch data from a server",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "text": "To manage and update state in a functional component",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "text": "To create a new component",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "text": "To define the component's props",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    
+    "text": " JavaScript, what will the 'typeof' operator return for an array?",
+    "options": [
+      {
+        "id": 1,
+        "text":  "object",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "text": "array",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "text": "list",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "text": "collection",
+        "isCorrect": false
+      }
+    ]
+    },
+    {
+      "text": "Which of the following is not a valid JavaScript data type?",
+      "options": [
+        {
+          "id": 1,
+          "text": "number",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "text": "object",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "text": "function",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "text": "character",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "What does JSX stand for in the context of React?",
+      "options": [
+        {
+          "id": 1,
+          "text": "javaScript XML",
+          
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "text": "javascript extension",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "text": "javascript syntax extension",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "text": "XML syntax extension",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
