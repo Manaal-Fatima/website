@@ -1,127 +1,128 @@
 [
   {
-    "text": "Which of the following is not a valid JavaScript data type?",
+    "text": "Which surah  of the Quran is often referred to as the 'Heart of the Quran' and is known for its emphasis on monotheism and the attributes of Allah?",
     "options": [
       {
         "id": 1,
-        "text": "number",
+        "text": "Surah Al-Fatiha",
         "isCorrect": false
       },
       {
         "id": 2,
-        "text": "object",
-        "isCorrect": false
+        "text": "Surah Al-Ikhlas",
+        "isCorrect": true
       },
       {
         "id": 3,
-        "text": "function",
+        "text": "Surah Al-Baqarah",
         "isCorrect": false
       },
       {
         "id": 4,
-        "text": "character",
-        "isCorrect": true
+        "text": " Surah Al-An-Nisa",
+        "isCorrect": false
       }
     ]
   },
   {
-    "text": "In React, what is the purpose of the useState hook?",
+    "text": "What is the term for the declaration of faith in Islam, stating that there is no god but Allah, and Muhammad is his prophet?",
     "options": [
       {
         "id": 1,
-        "text": " To fetch data from a server",
+        "text": "Azaan",
+        
         "isCorrect": false
       },
       {
         "id": 2,
-        "text": "To manage and update state in a functional component",
+        "text": "Shahada",
         "isCorrect": true
       },
       {
         "id": 3,
-        "text": "To create a new component",
+        "text": "Zakat",
         "isCorrect": false
       },
       {
         "id": 4,
-        "text": "To define the component's props",
+        "text": "Hadees",
         "isCorrect": false
       }
     ]
   },
   {
     
-    "text": " JavaScript, what will the 'typeof' operator return for an array?",
+    "text": " In Islamic tradition, who are the four rightly guided caliphs who succeeded Prophet Muhammad in leading the Muslim community?",
     "options": [
       {
         "id": 1,
-        "text":  "object",
+        "text":  "Abu Bakr, Umar, Usman, Ali",
         "isCorrect": true
       },
       {
         "id": 2,
-        "text": "array",
+        "text": "Hasan, Husayn, Abbas, Ali",
         "isCorrect": false
       },
       {
         "id": 3,
-        "text": "list",
+        "text": "Talha, Zubair, Sa'd, Amr",
         "isCorrect": false
       },
       {
         "id": 4,
-        "text": "collection",
+        "text": " Harith, Qais, Malik, Khalid",
         "isCorrect": false
       }
     ]
     },
     {
-      "text": "Which of the following is not a valid JavaScript data type?",
+      "text": " What is the term for the Islamic law, derived from the Quran and Hadith, that guides the behavior and ethics of Muslims?",
       "options": [
         {
           "id": 1,
-          "text": "number",
-          "isCorrect": false
+          "text": " Sharia",
+          "isCorrect": true
         },
         {
           "id": 2,
-          "text": "object",
+          "text": "Fatwa",
           "isCorrect": false
         },
         {
           "id": 3,
-          "text": "function",
+          "text": "Sunnah",
           "isCorrect": false
         },
         {
           "id": 4,
-          "text": "character",
+          "text": "Ijma",
           "isCorrect": true
         }
       ]
     },
     {
-      "text": "What does JSX stand for in the context of React?",
+      "text": "Which angel is believed to have delivered messages from God to the prophets, including the Quran to Muhammad?",
       "options": [
         {
           "id": 1,
-          "text": "javaScript XML",
+          "text": "Jibriel",
           
           "isCorrect": true
         },
         {
           "id": 2,
-          "text": "javascript extension",
+          "text": "Michael",
           "isCorrect": false
         },
         {
           "id": 3,
-          "text": "javascript syntax extension",
+          "text": "Israfeel",
           "isCorrect": false
         },
         {
           "id": 4,
-          "text": "XML syntax extension",
+          "text": "Azrael",
           "isCorrect": false
         }
       ]

@@ -49,6 +49,8 @@ export default function Bootstrap() {
             {score} out of {questions.length} correct ({(score / questions.length) * 100}%)
           </h2>
           <button onClick={gameRestart}>Restart Game</button>
+          <h3>-------------</h3>
+          <h5>Developed by ManaaL FatimA</h5>
         
         </div>
       ) : (
